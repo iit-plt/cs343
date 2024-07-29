@@ -10,5 +10,5 @@
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
-| 1       |  25-01-2024            | Introduction to OS| [25-7-2024](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERfbUGOsWwRLsBlhmrnDNG8BwoBDblLItS3jvnsF1p-U-A?e=qoMpB3) | Chapter 2 -OSTEP |
-| 2       |  26-01-2024            | Introduction to xv6 and x86 Background| [26-7-2024](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERfbUGOsWwRLsBlhmrnDNG8BwoBDblLItS3jvnsF1p-U-A?e=qoMpB3) | Appendix A of [xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) |
+| 1       |  25-07-2024            | Introduction to OS| [25-7-2024](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERfbUGOsWwRLsBlhmrnDNG8BwoBDblLItS3jvnsF1p-U-A?e=qoMpB3) | Chapter 2 -OSTEP |
+| 2       |  26-07-2024            | Introduction to xv6 and x86 Background| [26-7-2024](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESyTSxymWntIgm08emhHfa4Be3AZquqhCYfL_nqGWQtRFQ) | Appendix A of [xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) |
