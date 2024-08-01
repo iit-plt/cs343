@@ -1,6 +1,6 @@
 ## CS343 & CS344: Operating Systems Course Website
 
-## Use IITG mail to download or view course materials. Please do not ask for request access.
+%## Use IITG mail to download or view course materials. Please do not ask for request access.
 
 ### Welcome to the course website of Operating Systems (Jul-Nov 2024)
 
