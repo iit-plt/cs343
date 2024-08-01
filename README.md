@@ -1,7 +1,5 @@
 ## CS343 & CS344: Operating Systems Course Website
 
-%## Use IITG mail to download or view course materials. Please do not ask for request access.
-
 ### Welcome to the course website of Operating Systems (Jul-Nov 2024)
 
 ## Syllabus- [Click here](https://drive.google.com/file/d/1xkjVAa2I4pGDZfQ2o_TF39lp-MwAvKFZ/view?usp=sharing)
@@ -13,7 +11,7 @@
 ## Annoucement
 ### 31-07-2024 - Lab -0A-1 and Lab 0B-1 (First Evaluation on 06-08-2024, Due on 13-08-2024) 
 ### [Download Assignment_0A-1](https://drive.google.com/file/d/1bz9m4oupskWI2Xdi1siIMiGhT25pCP5B/view?usp=drive_link), [Download Assignment_0B-1](https://drive.google.com/file/d/1WqyxeXaQisvLmanVPiIlyaDux7MlL7Hs/view?usp=drive_link)
-
+### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1paG5BXwf8ngGjQ5wFlgPyV8wzPic0jBkwQrEeFgf7_Q/edit?usp=sharing)
 
 
 [Click here to check your attendance]()
