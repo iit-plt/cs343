@@ -24,5 +24,6 @@
 | 4       |  30-07-2024            | Processes in xv6| [30-7-2024](https://drive.google.com/file/d/17KTNJYECLrkJSZvis8lCf54a9z_wPd6F/view?usp=drive_link) | [xv6 code](https://www.cse.iitb.ac.in/~mythili/os/references/xv6-rev11.pdf),[Pages 21, 22 of xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) |
 | 5       |  02-08-2024            | System Call| [02-8-2024](https://drive.google.com/file/d/1M4WZzUk1yj_kri0kfaz2J9CyADfvY16A/view?usp=sharing) | [Chapter 5 -OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) |
 | 6       |  05-08-2024            | System Call for Process Management In xv6| [05-8-2024](https://drive.google.com/file/d/1NWhGkSS6Q4aOWqkUvXBF4VUr1XqfH6kD/view?usp=sharing) | [xv6 code](https://www.cse.iitb.ac.in/~mythili/os/references/xv6-rev11.pdf),[Pages 7-10 of xv6 Book](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) |
+| 7       |  06-08-2024            | Limited Direct Execution| [06-8-2024](https://drive.google.com/file/d/14YMEgXQ1RFmFXfBS7fgN2TQw4yONsDrO/view?usp=drive_link) | [Chapter 6 -OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) |
 
 ​
