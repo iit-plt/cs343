@@ -14,6 +14,7 @@
 ### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1paG5BXwf8ngGjQ5wFlgPyV8wzPic0jBkwQrEeFgf7_Q/edit?usp=sharing)
 ### Assigment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/gkAcqWFfnx)
 
+
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 07-08-2024 with TA anytime between 9:00 am to 11:00 am. TA-Group mapping for Lab-1 can be viewed [here](https://docs.google.com/spreadsheets/d/10gqSMxjziefn0vKXP5e5VJfUdv988R-HLR8cck7sXzo/edit?usp=sharing)
 
 
