@@ -19,7 +19,7 @@
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 07-08-2024 with TA anytime between 9:00 am to 11:00 am. TA-Group mapping for Lab-1 can be viewed [here](https://docs.google.com/spreadsheets/d/10gqSMxjziefn0vKXP5e5VJfUdv988R-HLR8cck7sXzo/edit?usp=sharing)
 
 
-[Click here to check your attendance]()
+[Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/phrangboklang_iitg_ac_in/EXmQqo6KxGhGiZN8EdS4bMwBBT_FfniVvmJWIIUpBLMw5g?e=WruKRT)
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
