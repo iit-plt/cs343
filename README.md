@@ -9,13 +9,14 @@
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ## Annoucement
+<!--- 
 ### 31-07-2024 - Lab -0A-1 and Lab 0B-1 (First Evaluation on 06-08-2024, Due on 13-08-2024) 
 ### [Download Assignment_0A-1](https://drive.google.com/file/d/1bz9m4oupskWI2Xdi1siIMiGhT25pCP5B/view?usp=drive_link), [Download Assignment_0B-1](https://drive.google.com/file/d/1WqyxeXaQisvLmanVPiIlyaDux7MlL7Hs/view?usp=drive_link)
 ### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1paG5BXwf8ngGjQ5wFlgPyV8wzPic0jBkwQrEeFgf7_Q/edit?usp=sharing)
 ### Assigment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/gkAcqWFfnx) 
 ### Only 1 report per group, only one member should submit 
 
-<!---               
+              
 %### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 07-08-2024 with TA anytime between 9:00 am to 11:00 am. TA-Group mapping for Lab-1 can be viewed [here](https://docs.google.com/spreadsheets/d/10gqSMxjziefn0vKXP5e5VJfUdv988R-HLR8cck7sXzo/edit?usp=sharing)
 -->
 
