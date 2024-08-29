@@ -3,7 +3,7 @@
 ### Welcome to the course website of Operating Systems (Jul-Nov 2024)
 
 ## Syllabus- [Click here](https://drive.google.com/file/d/1xkjVAa2I4pGDZfQ2o_TF39lp-MwAvKFZ/view?usp=sharing)
-
+<!---
 ### Textbooks
 #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
@@ -12,7 +12,7 @@
 ### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
 
 
-<!--- 
+ here comment 
 ### 19-08-2024 - Lab -1 (Due on 27.08.2024, Timing: 11:59 pm)
 ### Doubt Clearing Session on 21-08-2024, Evaluation on 28-08-2024
 ### [Download Assignment-1](https://drive.google.com/file/d/1mOsM4dFExrgl_OR9czPVeMAE2c9B52LE/view?usp=drive_link)
@@ -35,7 +35,7 @@
 
               
 %### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 07-08-2024 with TA anytime between 9:00 am to 11:00 am. TA-Group mapping for Lab-1 can be viewed [here](https://docs.google.com/spreadsheets/d/10gqSMxjziefn0vKXP5e5VJfUdv988R-HLR8cck7sXzo/edit?usp=sharing)
--->
+here comment 
 
 [Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/phrangboklang_iitg_ac_in/EXmQqo6KxGhGiZN8EdS4bMwBBT_FfniVvmJWIIUpBLMw5g?e=WruKRT)
 
@@ -55,4 +55,5 @@
 | 12       |  19-08-2024            | CPU Scheduling Algorithm-1 | [19-8-2024](https://drive.google.com/file/d/18_1F85xmPoTydA_W7EixRlaM5hGCFZzH/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
 | 13       |  20-08-2024            | CPU Scheduling Algorithm-2 | [20-8-2024](https://drive.google.com/file/d/12YoK2oNmAO2nAMP-VpZqO2fr5rKMGevS/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
 | 14       |  23-08-2024            | Tutorials-CPU Scheduling Algorithm | [23-8-2024](https://drive.google.com/file/d/1fqdLa9YyomGl-l5BKTRD7LDNXTXVapF_/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
+-->
 
