@@ -3,6 +3,7 @@
 ### Welcome to the course website of Operating Systems (Jul-Nov 2024)
 
 ## Syllabus- [Click here](https://drive.google.com/file/d/1xkjVAa2I4pGDZfQ2o_TF39lp-MwAvKFZ/view?usp=sharing)
+## Quiz-1 - [Solution-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbSAWgXNO4ZCkCTPCsM0VCkBS_CaShiz-Aj7mHhT9fTYWQ)
 <!---
 ### Textbooks
 #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
