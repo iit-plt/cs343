@@ -9,6 +9,10 @@
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ## Annoucement
+### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
+
+
+<!--- 
 ### 19-08-2024 - Lab -1 (Due on 27.08.2024, Timing: 11:59 pm)
 ### Doubt Clearing Session on 21-08-2024, Evaluation on 28-08-2024
 ### [Download Assignment-1](https://drive.google.com/file/d/1mOsM4dFExrgl_OR9czPVeMAE2c9B52LE/view?usp=drive_link)
@@ -16,7 +20,7 @@
 ### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/nkWMPuZV9w) 
 ### Only 1 report per group, only one member should submit 
 
-<!--- 
+
 
 ### Assigment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/gkAcqWFfnx) 
 ### Only 1 report per group, only one member should submit 
