@@ -12,8 +12,6 @@
 ## Annoucement
 ### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
 
-
- here comment 
 ### 19-08-2024 - Lab -1 (Due on 27.08.2024, Timing: 11:59 pm)
 ### Doubt Clearing Session on 21-08-2024, Evaluation on 28-08-2024
 ### [Download Assignment-1](https://drive.google.com/file/d/1mOsM4dFExrgl_OR9czPVeMAE2c9B52LE/view?usp=drive_link)
@@ -56,5 +54,4 @@ here comment
 | 12       |  19-08-2024            | CPU Scheduling Algorithm-1 | [19-8-2024](https://drive.google.com/file/d/18_1F85xmPoTydA_W7EixRlaM5hGCFZzH/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
 | 13       |  20-08-2024            | CPU Scheduling Algorithm-2 | [20-8-2024](https://drive.google.com/file/d/12YoK2oNmAO2nAMP-VpZqO2fr5rKMGevS/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
 | 14       |  23-08-2024            | Tutorials-CPU Scheduling Algorithm | [23-8-2024](https://drive.google.com/file/d/1fqdLa9YyomGl-l5BKTRD7LDNXTXVapF_/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
--->
 
