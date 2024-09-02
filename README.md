@@ -8,7 +8,17 @@
 #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
+
+### [Download Assignment-2](https://drive.google.com/file/d/1-KbA4G4CCAmgUgafDoghNWII84wCDnSN/view?usp=drive_link)
+
 <!--
+### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1mJo62WwO5fvhsSQG6zrmiuLWq6yeLAeYJD_22AeGdb8/edit?usp=sharing)
+### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/nkWMPuZV9w) 
+### Only 1 report per group, only one member should submit 
+
+
+
+
 ## Annoucement
 
 ### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
