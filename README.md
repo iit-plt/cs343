@@ -15,13 +15,13 @@
 
 
 ### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1x6hskYcEC6Guol4GFC87gh4hwTYUWK1c/edit?usp=sharing&ouid=115139226323564930498&rtpof=true&sd=true)
-<!--
-### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/nkWMPuZV9w) 
+
+### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/SUF7DxvCRV) 
 ### Only 1 report per group, only one member should submit 
 
 
 
-
+<!--
 ## Annoucement
 
 ### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
