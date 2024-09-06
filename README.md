@@ -70,5 +70,7 @@
 | 14       |  23-08-2024            | Tutorials-CPU Scheduling Algorithm | [23-8-2024](https://drive.google.com/file/d/1fqdLa9YyomGl-l5BKTRD7LDNXTXVapF_/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) [Chapter 7-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 
 | 15       |  26-08-2024            | Inter Process Communication | [26-8-2024](https://drive.google.com/file/d/1aAUrTxBvtOlr6P2FD_T_TZkWFrAai9nz/view?usp=drive_link) | [Chapter 3- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
 | 16       |  27-08-2024            | PROCESS SYNCHRONIZATION-CRITICAL SECTION | [27-8-2024](https://drive.google.com/file/d/1bef1b6T6h8jxhey4NkUGkWoC9Rlnl4Na/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
+| 17      |  30-08-2024            | Implementation of Spinlock| [30-8-2024](https://drive.google.com/file/d/1Mg4RHxABbT55yFnZNImaCoA1haQLf-hL/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
+
 
 
