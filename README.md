@@ -72,6 +72,7 @@
 | 16       |  27-08-2024            | PROCESS SYNCHRONIZATION-CRITICAL SECTION | [27-8-2024](https://drive.google.com/file/d/1bef1b6T6h8jxhey4NkUGkWoC9Rlnl4Na/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 17      |  30-08-2024            | Implementation of Spinlock| [30-8-2024](https://drive.google.com/file/d/1Mg4RHxABbT55yFnZNImaCoA1haQLf-hL/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 18      |  02-09-2024            | Continue| -same as above- | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
-| 19      |  03-09-2024            | Semaphores and Monitors| [03-8-2024](https://drive.google.com/file/d/1CsCTvPBnLtuaK0_5m1dxHhlBlFtiMsW9/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
+| 19      |  03-09-2024            | Semaphores and Monitors| [03-9-2024](https://drive.google.com/file/d/1CsCTvPBnLtuaK0_5m1dxHhlBlFtiMsW9/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
+| 20      |  06-09-2024            | Classical Synchronization Problem| [06-9-2024](https://drive.google.com/file/d/18vVSAVdvumLp2YBreJ0-_adB6DlFEwk7/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 
 
