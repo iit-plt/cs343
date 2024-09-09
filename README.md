@@ -74,5 +74,6 @@
 | 18      |  02-09-2024            | Continue| -same as above- | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 19      |  03-09-2024            | Semaphores and Monitors| [03-9-2024](https://drive.google.com/file/d/1CsCTvPBnLtuaK0_5m1dxHhlBlFtiMsW9/view?usp=drive_link) | [Chapter 6- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 20      |  06-09-2024            | Classical Synchronization Problem| [06-9-2024](https://drive.google.com/file/d/18vVSAVdvumLp2YBreJ0-_adB6DlFEwk7/view?usp=drive_link) | [Chapter 7- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
+| 21      |  09-09-2024            | Introduction to Deadlocks| [09-9-2024]() | [Chapter 7- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 
 
