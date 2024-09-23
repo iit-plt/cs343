@@ -30,7 +30,7 @@
 ### Doubt Clearing Session on 21-08-2024, Evaluation on 28-08-2024
 ### [Download Assignment-1](https://drive.google.com/file/d/1mOsM4dFExrgl_OR9czPVeMAE2c9B52LE/view?usp=drive_link)
 ### Groups for Lab created - [Check your group here](https://docs.google.com/spreadsheets/d/1mJo62WwO5fvhsSQG6zrmiuLWq6yeLAeYJD_22AeGdb8/edit?usp=sharing)
-### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/nkWMPuZV9w) 
+### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/SUF7DxvCRV) 
 ### Only 1 report per group, only one member should submit 
 
 
