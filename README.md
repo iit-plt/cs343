@@ -90,9 +90,9 @@
 | 21      |  12-09-2024            | Introduction to Deadlocks| [12-9-2024](https://drive.google.com/file/d/1JCfN9cusSd-taUdgE13ZDO4-oPmhTmty/view?usp=drive_link) | [Chapter 7- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 22      |  13-09-2024            | Deadlock Avoidance Algorithm| [13-9-2024](https://drive.google.com/file/d/1HZRUV1EDFlxphUcNJfEMZCEDcxdzyBFB/view?usp=drive_link) | [Chapter 7- OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)|
 | 23-a      |  23-09-2024            | Deadlock Detection| [23-9-2024](https://drive.google.com/file/d/1jdapOTNn5aP4CV3U4gGlIWyBdfU93o_f/view?usp=drive_link) | [Chapter 7- OS Concepts]()|
-| 23-b      |  23-09-2024            | Intoduction to Memory Management| [23-9-2024](https://drive.google.com/file/d/16uHhcpyxuKa-UOolosF8EcZkmCWrIAZh/view?usp=drive_link) | [Chapter 7- OS Concepts]()|
-| 24      |  24-09-2024            | Segmentation and Paging| [23-9-2024](https://drive.google.com/file/d/1iBKp0eMwc2HQv5k6hMcTguCweTBKruLY/view?usp=drive_link) | [Chapter 7- OS Concepts]()|
-| 25     |  26-09-2024            | Implementation of Paging| [26-9-2024](https://drive.google.com/file/d/1v6u_c40O837MBtTsXCKLeV_x7Fr8o6JZ/view?usp=drive_link) | [Chapter 7- OS Concepts]()|
-| 26     |  27-09-2024            | Virtual Memory| [27-9-2024](https://drive.google.com/file/d/1yUwsEvu0oe1VWVUdEG97Dt_Q9mrwFHox/view?usp=drive_link) | [Chapter 7- OS Concepts]()|
+| 23-b      |  23-09-2024            | Intoduction to Memory Management| [23-9-2024](https://drive.google.com/file/d/16uHhcpyxuKa-UOolosF8EcZkmCWrIAZh/view?usp=drive_link) | |
+| 24      |  24-09-2024            | Segmentation and Paging| [23-9-2024](https://drive.google.com/file/d/1iBKp0eMwc2HQv5k6hMcTguCweTBKruLY/view?usp=drive_link) | |
+| 25     |  26-09-2024            | Implementation of Paging| [26-9-2024](https://drive.google.com/file/d/1v6u_c40O837MBtTsXCKLeV_x7Fr8o6JZ/view?usp=drive_link) | |
+| 26     |  27-09-2024            | Virtual Memory| [27-9-2024](https://drive.google.com/file/d/1yUwsEvu0oe1VWVUdEG97Dt_Q9mrwFHox/view?usp=drive_link) | |
 
 
