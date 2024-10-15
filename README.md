@@ -16,8 +16,11 @@
 ### Evaluation on 16.10.2029
 ### [Download Assignment-3](https://drive.google.com/file/d/15ggNu_OUp4cwcP317KGD6o3XYd3gqigL/view?usp=drive_link)
 
+### Groups for Lab-3 created - [Check your group here](https://docs.google.com/spreadsheets/d/1MFzqAalmClZ9cPR--O0gMd6xP9x3VDnN/edit?usp=sharing&ouid=115139226323564930498&rtpof=true&sd=true)
+<!--
 ***
 ***
+
 
 ### 02-09-2024 - Lab -2 (Due on 24.09.2029, Timing: 11:59 pm)
 ### Evaluation on 25.09.2029
@@ -33,7 +36,7 @@
 
 
 
-<!--
+
 
 ## Quiz-1 - [Solution-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbSAWgXNO4ZCkCTPCsM0VCkBS_CaShiz-Aj7mHhT9fTYWQ)
 ## Annoucement
