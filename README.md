@@ -99,5 +99,12 @@
 | 24      |  24-09-2024            | Segmentation and Paging| [23-9-2024](https://drive.google.com/file/d/1iBKp0eMwc2HQv5k6hMcTguCweTBKruLY/view?usp=drive_link) | |
 | 25     |  26-09-2024            | Implementation of Paging| [26-9-2024](https://drive.google.com/file/d/1v6u_c40O837MBtTsXCKLeV_x7Fr8o6JZ/view?usp=drive_link) | |
 | 26     |  27-09-2024            | Virtual Memory| [27-9-2024](https://drive.google.com/file/d/1yUwsEvu0oe1VWVUdEG97Dt_Q9mrwFHox/view?usp=drive_link) | |
+| 27     |  30-09-2024            | Frame Allocation| [30-9-2024](https://drive.google.com/file/d/183-S-DEYKvJxiCQGxxXC7fe8eLKy7-fI/view?usp=drive_link) | |
+| 28     |  01-10-2024            | Memory Management Tutorial-1| [01-10-2024](https://drive.google.com/file/d/1c3YP_WlIjW-lD-R-m4ZmHOrkt37gh-cr/view?usp=drive_link) | |
+| 29     |  03-10-2024            | Memory Management Tutorial-2| [03-10-2024](https://drive.google.com/file/d/1ZOil56TKT7TiUXU-yKMqV3uhBlX5ct9s/view?usp=drive_link) | |
+| 30     |  04-10-2024            | Memory Management Tutorial-2-Cont| [04-10-2024](https://drive.google.com/file/d/1ZOil56TKT7TiUXU-yKMqV3uhBlX5ct9s/view?usp=drive_link) | |
+| 31     |  14-10-2024            | Secondary Storage Management| [14-10-2024](https://drive.google.com/file/d/1DCACSohl-EYXVGOLCO29wdV8qB1LHatt/view?usp=drive_link) | |
+| 32     |  15-10-2024            | Disk Scheduling| [15-10-2024](https://drive.google.com/file/d/1_S5GMh8yf9294Im4pkrv7DDav8X7Ic-G/view?usp=drive_link) | |
+
 
 
