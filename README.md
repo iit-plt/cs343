@@ -18,6 +18,18 @@
 -->
 
 ****
+
+### 17-10-2024 - Lab -4 (Due on 29.10.2029, Timing: 11:59 pm)
+### Evaluation on 29.10.2029
+### [Download Assignment-4](https://drive.google.com/file/d/13iVvtccDkz93LFBJrQDwQyT15MBV--4x/view?usp=drive_link)
+### [Other files required for Lab-4](https://drive.google.com/file/d/1RuJ3I8-fjTJBvSED3CEoLcx6d-Q-fmTk/view?usp=drive_link)
+
+### Groups for Lab-4 created - [Check your group here](https://docs.google.com/spreadsheets/d/1JLrA5p9I_y989_e0YqpmEpGQpSJZsosQy3DZ0QX1q4g/edit?usp=sharing)
+### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/Hi3m5KNp1j) 
+### Only 1 report per group, only one member should submit 
+
+
+<!--
 ### 25-09-2024 - Lab -3 (Due on 15.10.2029, Timing: 11:59 pm)
 ### Evaluation on 16.10.2029
 ### [Download Assignment-3](https://drive.google.com/file/d/15ggNu_OUp4cwcP317KGD6o3XYd3gqigL/view?usp=drive_link)
@@ -25,7 +37,7 @@
 ### Groups for Lab-3 created - [Check your group here](https://docs.google.com/spreadsheets/d/1MFzqAalmClZ9cPR--O0gMd6xP9x3VDnN/edit?usp=sharing&ouid=115139226323564930498&rtpof=true&sd=true)
 ### Assignment Report Submission can be posted via this online form: [Click here](https://forms.office.com/r/Hi3m5KNp1j) 
 ### Only 1 report per group, only one member should submit 
-<!--
+
 ***
 ***
 
