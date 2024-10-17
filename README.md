@@ -10,7 +10,7 @@
 ****
 
 ## Lab Quiz on 23-10-2024
-## Theory Quiz on 07-11-2024
+## Theory Quiz-II on 07-11-2024
 
 
 <!--
