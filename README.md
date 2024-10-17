@@ -8,8 +8,14 @@
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ****
-## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
 
+## Lab Quiz on 23-10-2024
+## Theory Quiz on 07-11-2024
+
+
+<!--
+## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
+-->
 
 ****
 ### 25-09-2024 - Lab -3 (Due on 15.10.2029, Timing: 11:59 pm)
