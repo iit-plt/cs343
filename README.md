@@ -10,6 +10,8 @@
 ****
 
 ## Lab Quiz on 23-10-2024 - All the lab assignments are found [here](https://drive.google.com/drive/folders/1bGVbx7iW1dOqbfJRL8LqyM3cee9pTMgD?usp=drive_link)
+## Lab Quiz Venue - Core-1 - Classrooms 1002, 1005, 1201 and 1205, Timing : 9:30 am - 10:10 am (40 minutes), Please reach the venue by 9:15 am
+
 ## Theory Quiz-II on 07-11-2024
 
 
