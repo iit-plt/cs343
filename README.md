@@ -9,7 +9,7 @@
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ****
 
-## Lab Quiz on 23-10-2024
+## Lab Quiz on 23-10-2024 - All the lab assignments are found [here](https://drive.google.com/drive/folders/1bGVbx7iW1dOqbfJRL8LqyM3cee9pTMgD?usp=drive_link)
 ## Theory Quiz-II on 07-11-2024
 
 
