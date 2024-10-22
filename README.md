@@ -11,7 +11,13 @@
 
 ## Lab Quiz on 23-10-2024 - [All lab assignments](https://drive.google.com/drive/folders/1bGVbx7iW1dOqbfJRL8LqyM3cee9pTMgD?usp=drive_link)
 ## Syllabus - Lab-0 to Lab-3
-## Lab Quiz Venue - Core-1 - Classrooms 1002, 1005, 1201 and 1205, Timing : 9:30 am - 10:10 am (40 minutes), Please reach the venue by 9:15 am
+## Lab Quiz Venue - Core-1 - Classrooms 1002, 1005, 1201 and 1205, Timing : 9:15 am - 9:55 am (40 minutes), Please reach the venue by 9:10 am
+### Seating Arrangement: 
+## Classroom 1002: Roll No 210123054, 220101001- 220101031
+## Classroom 1005: Roll No 220101032- 220101067
+## Classroom 1201: Roll No 220101068- 220101125, 220123001-220123002
+## Classroom 1205: Roll No 220123003-220123083
+
 
 ## Theory Quiz-II on 07-11-2024
 
