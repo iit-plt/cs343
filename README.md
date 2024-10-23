@@ -14,7 +14,7 @@
 ## [Set-B-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESvHLikIDJtKmf5Eh83GEjMB3jO9cFR9CAgk7kAij54DMg?e=FqeO9y)
 ## [Set-C-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EShBNzf9tHRNi8mEZtQzXYYB92tP4_SNkJg1hImXYG3vlg?e=0aPkLk)
 ## [Set-D-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdnDstZz1uxFpEf75IZ8TnsBr9PUMOlZUKlvGleS7IGALQ?e=chiVKD)
-## [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXBMLgQd7JdAjWzSWGpQYGMB5UeJFeVV0t98U-zsdipG8g?e=RUr8VD)
+## [Solutions- All Set](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXBMLgQd7JdAjWzSWGpQYGMB5UeJFeVV0t98U-zsdipG8g?e=RUr8VD)
 
 <!--
 ## Syllabus - Lab-0 to Lab-3
