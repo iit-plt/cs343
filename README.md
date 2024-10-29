@@ -35,7 +35,7 @@
 
 ****
 
-### 17-10-2024 - Lab -4 (Due on 29.10.2029, Timing: 11:59 pm)
+### 17-10-2024 - Lab -4 (Due on 30.10.2029, Timing: 9:00 am)
 ### Evaluation on 29.10.2029
 ### [Download Assignment-4](https://drive.google.com/file/d/13iVvtccDkz93LFBJrQDwQyT15MBV--4x/view?usp=drive_link)
 ### [Other files required for Lab-4](https://drive.google.com/file/d/1RuJ3I8-fjTJBvSED3CEoLcx6d-Q-fmTk/view?usp=drive_link)
