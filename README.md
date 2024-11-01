@@ -14,9 +14,10 @@
 ## [Set-B-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESvHLikIDJtKmf5Eh83GEjMB3jO9cFR9CAgk7kAij54DMg?e=FqeO9y)
 ## [Set-C-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EShBNzf9tHRNi8mEZtQzXYYB92tP4_SNkJg1hImXYG3vlg?e=0aPkLk)
 ## [Set-D-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdnDstZz1uxFpEf75IZ8TnsBr9PUMOlZUKlvGleS7IGALQ?e=chiVKD)
+## [Solutions- All Set](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESHj8eolp41Gh2Wb_tIhCLUBTAP46rFdBJ-QlY5ZB3-G3w?e=SlAmEd)
 ****
 <!--
-## [Solutions- All Set](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXBMLgQd7JdAjWzSWGpQYGMB5UeJFeVV0t98U-zsdipG8g?e=RUr8VD)
+
 ## Syllabus - Lab-0 to Lab-3
 ## Lab Quiz Venue - Core-1 - Classrooms 1002, 1005, 1201 and 1205, Timing : 9:15 am - 9:55 am (40 minutes), Please reach the venue by 9:10 am
 ### Seating Arrangement: 
