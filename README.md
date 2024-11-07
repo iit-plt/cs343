@@ -8,7 +8,7 @@
 #### [xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ****
-
+<!--
 ## Lab Quiz on 23-10-2024 - [All lab assignments](https://drive.google.com/drive/folders/1bGVbx7iW1dOqbfJRL8LqyM3cee9pTMgD?usp=drive_link)
 ## [Set-A-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVSEuax83RpErEqH7OvtPDIBs39sW8BOSvlty2m6tSjJlQ?e=XKykmL)
 ## [Set-B-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESvHLikIDJtKmf5Eh83GEjMB3jO9cFR9CAgk7kAij54DMg?e=FqeO9y)
@@ -16,7 +16,7 @@
 ## [Set-D-QP](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdnDstZz1uxFpEf75IZ8TnsBr9PUMOlZUKlvGleS7IGALQ?e=chiVKD)
 ## [Solutions- All Set](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ea4juLnB8SVNjAQqqXopy4sB9SwcGYR6n5ps7VoAam-bfw?e=PocjEa)
 ****
-<!--
+
 
 ## Syllabus - Lab-0 to Lab-3
 ## Lab Quiz Venue - Core-1 - Classrooms 1002, 1005, 1201 and 1205, Timing : 9:15 am - 9:55 am (40 minutes), Please reach the venue by 9:10 am
@@ -28,7 +28,12 @@
 -->
 
 ## Theory Quiz-II on 07-11-2024
-
+### Seating Arrangement:
+## 5G1- 190101073, 210121060, 210121067,210123054, 220101001 - 220101059
+## 5G2 - 220101060-220101119
+## 5003- 220101120-220101125, 220123001-220123022
+## 5004-220123023 - 220123052
+## 5005-220123053 - 220123083, 242123002
 
 <!--
 ## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
