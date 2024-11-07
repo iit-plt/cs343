@@ -28,6 +28,8 @@
 -->
 
 ## Theory Quiz-II on 07-11-2024, 6:15 pm - 7pm
+
+<!--
 ### Seating Arrangement:
 ## 5G1- 190101073, 210121060, 210121067,210123054, 220101001 - 220101059
 ## 5G2 - 220101060-220101119
@@ -35,7 +37,6 @@
 ## 5004-220123023 - 220123052
 ## 5005-220123053 - 220123083, 242123002
 
-<!--
 ## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
 -->
 
