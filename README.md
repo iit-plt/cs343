@@ -28,6 +28,7 @@
 -->
 
 ## Theory Quiz-II on 07-11-2024, 6:15 pm - 7pm
+## Quiz-II [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYHeSkFsbXpEg052CdwHgSoB2ObQ-nhwI9G7BWxdPG9EjQ?e=HAeUaz)
 
 <!--
 ### Seating Arrangement:
