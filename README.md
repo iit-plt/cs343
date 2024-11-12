@@ -156,6 +156,12 @@
 | 38     |  28-10-2024            |  File System Implementation| [28-10-2024](https://drive.google.com/file/d/19kPlqZcDBvhS2HSvCKTOTeMSN4dZ9-Ri/view?usp=drive_link) |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
 | 39     |  29-10-2024            |  File Allocation Freespace| [29-10-2024](https://drive.google.com/file/d/1lAJnHN32AYt5X2o37UQAUJnDsglVYCrO/view?usp=drive_link) |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
 | 40     |  1-11-2024            |  File Management Tutorial| [1-11-2024](https://drive.google.com/file/d/1Mmju6N33cXId6TQ77yggiPD0AicG-vP2/view?usp=drive_link) |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 41     |  4-11-2024            | Introduction to IO | [4-11-2024]() |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 42     |  5-11-2024            | IO Subsytems: Data Transfer Techniques | [5-11-2024]() |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 43     |  8-11-2024            | IO Device Performance | [8-11-2024]() |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 44     |  11-11-2024            | Virtualization | [11-11-2024]() |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 45     |  12-11-2024            | Revision | NA |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
+| 46     |  14-11-2024            | Revision | NA |[Textbook-OS Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf) |
 
 
 
