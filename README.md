@@ -38,7 +38,7 @@
 ## 5004-220123023 - 220123052
 ## 5005-220123053 - 220123083, 242123002
 
-## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
+Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
 -->
 
 ****
@@ -82,7 +82,7 @@
 
 
 
-## Quiz-1 - [Solution-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbSAWgXNO4ZCkCTPCsM0VCkBS_CaShiz-Aj7mHhT9fTYWQ)
+Quiz-1 - [Solution-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbSAWgXNO4ZCkCTPCsM0VCkBS_CaShiz-Aj7mHhT9fTYWQ)
 ## Annoucement
 
 ### Quiz-1- 29.08.2024,- 6pm to 7pm, [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EW42r4zH6mROmFPI6tGc8LQBUcOUxLu-qzCPTxabYGXK0g?e=hfx9gH)
