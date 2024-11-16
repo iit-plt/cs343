@@ -27,7 +27,8 @@
 ## Classroom 1205: Roll No 220123003-220123083
 -->
 
-## Theory Quiz-II on 07-11-2024, 6:15 pm - 7pm
+## Quiz-1 - [Solution-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbSAWgXNO4ZCkCTPCsM0VCkBS_CaShiz-Aj7mHhT9fTYWQ)
+## Mid-Sem - [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETmEZXlNCjBLpx4fCpmsvboBXqa8WCF5jhA3Bri2EScE7g?e=0elgRt)
 ## Quiz-II [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYHeSkFsbXpEg052CdwHgSoB2ObQ-nhwI9G7BWxdPG9EjQ?e=HAeUaz)
 
 <!--
